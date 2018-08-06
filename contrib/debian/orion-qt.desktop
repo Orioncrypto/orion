@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Orion
+Comment=Orion P2P Cryptocurrency
+Comment[fr]=Orion, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Orion, eşten eşe kriptografik sanal para birimi
+Exec=orion-qt %u
+Terminal=false
+Type=Application
+Icon=orion128
+MimeType=x-scheme-handler/orion;
+Categories=Office;Finance;

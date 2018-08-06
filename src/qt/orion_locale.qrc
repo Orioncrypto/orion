@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/orion_bg.qm</file>
+        <file alias="de">locale/orion_de.qm</file>
+        <file alias="en">locale/orion_en.qm</file>
+        <file alias="es">locale/orion_es.qm</file>
+        <file alias="fi">locale/orion_fi.qm</file>
+        <file alias="fr">locale/orion_fr.qm</file>
+        <file alias="it">locale/orion_it.qm</file>
+        <file alias="ja">locale/orion_ja.qm</file>
+        <file alias="pl">locale/orion_pl.qm</file>
+        <file alias="pt">locale/orion_pt.qm</file>
+        <file alias="ru">locale/orion_ru.qm</file>
+        <file alias="sk">locale/orion_sk.qm</file>
+        <file alias="sv">locale/orion_sv.qm</file>
+        <file alias="vi">locale/orion_vi.qm</file>
+        <file alias="zh_CN">locale/orion_zh_CN.qm</file>
+        <file alias="zh_TW">locale/orion_zh_TW.qm</file>
+    </qresource>
+</RCC>

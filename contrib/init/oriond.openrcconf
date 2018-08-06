@@ -1,0 +1,26 @@
+# /etc/conf.d/oriond: config file for /etc/init.d/oriond
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/orion/orion.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/oriond"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/oriond.pid"
+
+# Where to write oriond data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/oriond"
+
+# User and group to own oriond process
+#BITCOIND_USER="orion"
+#BITCOIND_GROUP="orion"
+
+# Path to oriond executable
+#BITCOIND_BIN="/usr/bin/oriond"
+
+# Nice value to run oriond under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""
